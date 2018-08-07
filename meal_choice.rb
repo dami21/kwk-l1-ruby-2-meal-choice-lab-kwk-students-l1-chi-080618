@@ -1,5 +1,5 @@
 def snacks(your_name)
-  "Afternoon is the best time for #{your_name}"
+  "Any time, is the right time for #{your_name}"
 end 
 
 puts snacks("cheetos")
