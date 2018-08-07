@@ -17,7 +17,7 @@ end
 lunch("grilled_cheese")
 
 def dinner(your_name)
- "dinner is the best timne for #{your_name}"
+ "dinner is the best time for #{your_name}"
 end
 
 puts dinner("salmon")
