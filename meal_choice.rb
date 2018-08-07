@@ -1,5 +1,5 @@
-def snacks(your_name = "cheetos")
-  "Any time, is the right time for #{your_name}"
+def snacks(your_name = "Cheetos")
+  "Any time, is the right time for #{your_name}!"
 end 
 
 puts snacks("cheetos")
