@@ -4,7 +4,7 @@ end
 
 puts snacks("cheetos")
 
-def breakfast(your_name="frosted flakes")
+def breakfast(your_name ="frosted flakes")
   puts "Morning is the best time for #{your_name}"
 end
 
