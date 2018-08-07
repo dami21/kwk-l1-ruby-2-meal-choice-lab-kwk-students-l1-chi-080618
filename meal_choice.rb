@@ -1,5 +1,5 @@
-def breakfast("scrambled eggs")
-  puts "Morning is the best time for #{scrambled eggs}"
+def breakfast("food")
+  puts "Morning is the best time for #{food}"
 end 
 
 breakfast("scrambled eggs")
