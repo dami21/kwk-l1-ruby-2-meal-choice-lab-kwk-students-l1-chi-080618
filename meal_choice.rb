@@ -8,10 +8,10 @@ def breakfast(your_name)
   "Morning is the best time for #{your_name}"
 end
 
-puts breakfast("pancakes")
+puts breakfast("frosted_flakes")
 
 def lunch(your_name)
-  "lunch is the best timne for #{your_name}"
+  "lunch is the best time for #{your_name}"
 end
 
 puts lunch("grilled_cheese")
